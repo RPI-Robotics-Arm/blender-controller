@@ -1,5 +1,5 @@
 # RPI Robotics Club Arm
-**Controller (Python) repository**
+**Blender Controller (Python) repository**
 
 This README will be fully populated in the future.
 
